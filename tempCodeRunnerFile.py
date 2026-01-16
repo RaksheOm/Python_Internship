@@ -1,3 +1,3 @@
-a=20
-b="30"
-print(a+int(b))
+method
+# emp="HTML","CSS","JS"
+# print(type(emp))
