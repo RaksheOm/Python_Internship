@@ -78,5 +78,5 @@
 # print(result) # R u n
 
         # mcq-11
-for i in "Learn":
-    print(i)
+# for i in "Learn":
+#     print(i)
