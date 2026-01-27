@@ -1,8 +1,3 @@
-skills=["HTML","CSS","Tailwind","JS","React JS","Node JS","Express JS","Next JS","MongoDB","PostregsSQL"]
-# print(skills)
-
-
-# # access list elements- indexing
-
-# print(skills[0])
-# print(skills[1])
+a=10
+# print(a)
+# print(id(a))

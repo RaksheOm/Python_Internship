@@ -40,9 +40,20 @@
 # empAddress="Pune"
 # print(empRole , empAddress )
 
-empAge=20
-empCTC="20LPA"
-print(f"Your Age is {empAge} , and empCTC is {empCTC}")
+# empAge=20
+# empCTC="20LPA"
+# print(f"Your Age is {empAge} , and empCTC is {empCTC}")
+
+
+# name = "Pratik"
+# age = 24
+# # print(f"My name is {name} and I am {age} years old.")
+
+# print(f"Name is {name} and I am {age} years old")
+
+a = 5
+b = a
+print(id(a), id(b))
 
 ########################################3
 #  user input
@@ -58,6 +69,6 @@ print(f"Your Age is {empAge} , and empCTC is {empCTC}")
 
 # id - to check memory location of variable
 
-a=10
-print(a)
-print(id(a))
+# a=10
+# print(a)
+# print(id(a))
