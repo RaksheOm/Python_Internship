@@ -1,9 +1,23 @@
+# Steps
+# 1. User enters amount
+# Selects payment method
+# Gateway validates payment
+# Bank processes transaction
+# Success OR failures messages
+
+# MAIN User Interactionn
+
+# Flow
+
+# Insert Card->Enter Pin ->Choose Operation -> Perform Op-> Handles Error
+
 # step 1 
 # Create Bank Account Class
 # balance,pin
 
 class BankAccount:
     def __init__(self,pin,balance=0):
+        # create instance variables and stored in a object
         self.balance=balance
         self.pin=pin
 
@@ -18,8 +32,9 @@ class BankAccount:
         print("Pin reset....Done")
 
 # b1=BankAccount("1234",20000)
-
+#  The ATM class represents an ATM machine that interacts with a BankAccount object.
 class ATM:
+
     def __init__(self,account):
         self.account=account
 
