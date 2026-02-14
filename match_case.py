@@ -103,5 +103,3 @@
 # else:
 #     print("Invalid day! Please enter a valid weekday name.")
 
-
-

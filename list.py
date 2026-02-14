@@ -230,5 +230,3 @@
 # print(list_6[2:]) # 50......
 # print(list_6[:3])
 # print(list_6[:])
-
-
